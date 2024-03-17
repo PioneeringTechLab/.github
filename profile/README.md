@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome the Pioneering Tech Lab GitHub Organization.
+
+This space serves as a public archive for the work done in the now defunct CSUN departments. This space is also dedicated to those that formed part of those departments:
+
+- Pioneering Technology Group
+- META+LAB
+- Advancing Tech Lab
+
 <!--
 
 **Here are some ideas to get you started:**
